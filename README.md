@@ -16,9 +16,9 @@ L'arboressence de votre projet devra ressembler à ceci :
 |- etape1.html  
 |- etape2.html  
 |- js  
-|  |- blackJack.js  
+|&nbsp;&nbsp;|- blackJack.js  
 |- ( css  
-     |- master.css ) => optionnel  
+&nbsp;&nbsp;|- master.css ) => optionnel  
 
 La partie graphique est géré avec Bootstrap (v3 ou v4)  
 
