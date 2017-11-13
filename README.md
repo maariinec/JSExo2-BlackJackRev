@@ -43,9 +43,10 @@ Le joueur joue contre l'ordinateur.
 Il doit faire plus que l'ordinateur mais ne doit pas dépasser le chiffre 21.  
 Quand le jeu commence l'ordinateur et le joueur recoivent un chiffre généré aléatoirement compris entre 1 et 11.  
 Le chiffre de l'ordinateur est masqué.  
-Le joueur à le choix entre :
+Le joueur à le choix entre:  
 * Recevoir un nouveau chiffre qui viendra s'ajouter au sien (l'ordinateur fera de même)
-* S'arreter et voir le chiffre de l'ordinateur.
+* S'arreter et voir le chiffre de l'ordinateur.  
+
 Si la somme des nombres du joueur dépasse 21 il a immédiatement perdu et un message s'affiche.  
 Si le joueur obtient plus que l'ordinateur et moins que 21, il a gagné.  
 Si l'ordinateur a plus que le joueur et moins de 21 la machine gagne.  
