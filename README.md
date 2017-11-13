@@ -33,7 +33,7 @@ En cas d'égalité, la machine gagne.
 
 Les erreurs de saisies devront être gérées.
 
-Bonus : 
+### Bonus : 
 * Faire les statistiques des parties jouées (compter les défaites, les victoires et les chiffres saisies et générées).
 * Inclure une notion de probabilité. Plus le chiffre est bas plus les chances de gagner sont faibles donc le gain de point pour le calcul du score est élevé. (soyez créatif !)
 
@@ -50,7 +50,7 @@ Si la somme des nombres du joueur dépasse 21 il a immédiatement perdu et un me
 Si le joueur obtient plus que l'ordinateur et moins que 21, il a gagné.  
 Si l'ordinateur a plus que le joueur et moins de 21 la machine gagne.  
 
-## Bonus :
+### Bonus :
 * Transformer les chiffres en carte visuellement
 * Laisser l'ordinateur la possibilité de choisir si il veut lui aussi une carte en plus ou non.
 * Mettre en place un systeme de mise (Le joueur commence avec une réserve de jeton qu'il peut miser)
