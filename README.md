@@ -1,26 +1,26 @@
 # Black Jack Revisité
 Un black Jack revisité par la Passerelle Numérique
 
-##Rendu attendu
+## Rendu attendu
 
-Le rendu devra se composer de deux pages html distinctes comprenant les deux étapes du projet.
-- etape1.html
-- etape2.html
+Le rendu devra se composer de deux pages html distinctes comprenant les deux étapes du projet.  
+* etape1.html
+* etape2.html
 
-L'ensemble des fonctions JavaScript seront stockées dans un fichier: blackJack.js
+L'ensemble des fonctions JavaScript seront stockées dans un fichier: blackJack.js  
 Si besoin, un fichier css pourra être créé : master.css
 
 L'arboressence de votre projet devra ressembler à ceci :
 
-/   => correspond à la racine du projet
-|- etape1.html
-|- etape2.html
-|- js
-|  |- blackJack.js
-|- ( css
-     |- master.css ) => optionnel
+/   => correspond à la racine du projet  
+|- etape1.html  
+|- etape2.html  
+|- js  
+|  |- blackJack.js  
+|- ( css  
+     |- master.css ) => optionnel  
 
-La partie graphique est géré avec Bootstrap (v3 ou v4)
+La partie graphique est géré avec Bootstrap (v3 ou v4)  
 
 ## Enoncé étape 1 :
 
