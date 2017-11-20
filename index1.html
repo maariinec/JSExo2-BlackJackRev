@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+ <head>
+    <title>JEU</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <link href="css/style.css" rel="stylesheet"/>
+	<script src="js/black.js"></script>
+	
+ </head>
+
+ <body>
+ 	<section class="main">
+ 	<form>
+        <fieldset>
+          <legend>Choisir un numéro entre 0 et 10</legend>
+          <input id="myNumber" type="number" value="0" min="0" max="10">
+          <input id="submit" type="button" value="Ok" onclick="aleatoire(); return false"><br>
+          <label> Résultat du Croupier</label>
+          <span id="resultat"></span><br>
+          <span id="phrase"></span>
+        </fieldset>
+    </form>
+    </section>
+ </body>
+ </html>

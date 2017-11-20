@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+ <head>
+    <title>JEU</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <link href="css/style.css" rel="stylesheet"/>
+	<script src="js/black.js"></script>
+	
+ </head>
+
+ <body>
+ 	<section class="main">
+ 	<form>
+        <fieldset>
+          <legend>Cliquer sur ok pour générer un chiffre</br> Le but étant de se rapprocher le plus de 21</legend>
+          <input id="submit" type="button" value="Ok" onclick="chiffre()"><br>
+          <span id="resultUser"></span><br>
+          <label> Voulez vous un chiffre en plus ?</label>
+          <input id="submit" type="button" value="oui" onclick="yes()">
+          <input id="submit" type="button" value="non" onclick="no()"><br>
+          <span id="resultFirst"></span><br>
+          <span id="resultTwo"></span><br>
+
+          
+        </fieldset>
+    </form>
+    </section>
+ </body>
+ </html>
